@@ -1,25 +1,3 @@
-Material Design for Bootstrap
+Official Website for CTE 2018
 
-version: MDB Free 4.5.6
-
-Documentation:
-https://mdbootstrap.com/
-
-Getting started:
-https://mdbootstrap.com/getting-started/
-
-Tutorials:
-MDB-Bootstrap: https://mdbootstrap.com/bootstrap-tutorial/
-MDB-Wordpress: https://mdbootstrap.com/wordpress-tutorial/
-
-Templates:
-https://mdbootstrap.com/templates/
-
-License:
-https://mdbootstrap.com/license/
-
-Support:
-https://mdbootstrap.com/forums/forum/support/
-
-Contact:
-office@mdbootstrap.com
+Framework used: MDBootstrap
